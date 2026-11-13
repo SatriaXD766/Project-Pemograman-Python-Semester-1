@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[[Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=850&height=150&lines=Si+Anak+Informatika+%F0%9F%92%BB+Satria+Bagas+Sejati;Ngoding+Dari+Nol%2C+Mimpi+Setinggi+Langit+%F0%9F%9A%80;Welcome+to+My+Semester+1+Journey+%F0%9F%94%A5;Slay+Every+Bug+%2C+Build+The+Future+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Halo%2C+Saya+Satria+Bagas+Sejati;Mahasiswa+Teknik+Informatika;Belajar+Python+Semester+1;Ngoding+Sambil+Ngopi+%F0%9F%94%A5)](https://git.io/typing-svg)
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Semester%201-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white" />
